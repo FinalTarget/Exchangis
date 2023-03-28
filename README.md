@@ -41,7 +41,7 @@ With the help of [Linkis](https://github.com/apache/incubator-linkis) computing 
 
 - Realize DSS AppConn's three-level specification, including the first-level SSO specification, the second-level organizational structure specification and the third-level development process specification.
 
-- As the data exchange node of DSS workflow, it is the fundamental process in the whole workflow link, which provides a solid data foundation for the subsequent operation of workflow nodes.
+- As the data exchange node of DSS workflow, it is the fundamental process in the whole workflow link, which provides a solid data foundation for the subsequent operation of workflow nodes.8
 
 ## Overall Design 
 
